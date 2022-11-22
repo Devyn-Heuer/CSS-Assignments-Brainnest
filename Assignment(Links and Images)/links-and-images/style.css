@@ -1,0 +1,15 @@
+body{
+    background-color: turquoise;
+}
+
+h1 {
+    background-color: violet;
+    color: ghostwhite;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 24px;
+    border: 2px solid white;
+}
+
+img {
+    border-radius: 5%;
+}

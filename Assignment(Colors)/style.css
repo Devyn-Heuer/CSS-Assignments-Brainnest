@@ -1,0 +1,19 @@
+div {
+    background-color: silver;
+}
+
+h1 {
+    color: red;
+}
+
+h2 {
+    color: #f523f5;
+}
+
+h3 {
+    color: hsl(248, 53%, 58%);
+}
+
+h4 {
+    color: rgb(16, 167, 16);
+}
